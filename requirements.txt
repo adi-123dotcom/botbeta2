@@ -29,6 +29,7 @@ pandas
 openai
 huggingface_hub
 google-generativeai
+python-dotenv
 
 # Requests library for API calls
 requests
